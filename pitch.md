@@ -1,13 +1,13 @@
-# ASSCAT Campus AI Copilot Pitch
+# ASSCAT Campus AI Copilot
 
 ## Problem Statement
-The old student portal is inefficient because it uses too many menus and is difficult to navigate. Students waste time clicking multiple pages just to find simple information like schedules, grades, or clearance status.
+The current ASSCAT student portal is inefficient because it relies on multiple menus and complex navigation. Students often find it difficult to locate important information such as grades, class schedules, and clearance status. This results in wasted time and a poor user experience.
 
 ## Industry 5.0 Justification
-The AI Copilot empowers students by assisting them in real-time instead of replacing human interaction. It enhances productivity by guiding users, answering questions instantly, and reducing confusion while still allowing human support when needed.
+The ASSCAT AI Copilot follows Industry 5.0 by focusing on human-centered technology. Instead of replacing human services, the AI assists students by providing quick and accurate answers. It improves productivity while still allowing human interaction when necessary.
 
 ## Agile User Stories
 
-1. As a student, I want an AI chat assistant, so that I can quickly ask about my grades and schedule.
-2. As a student, I want voice input, so that I can interact with the system faster without typing.
-3. As a student, I want offline emergency access, so that I can still get important information even without internet.
+1. As a student, I want an AI assistant that can answer my questions instantly, so that I can avoid navigating multiple pages.
+2. As a student, I want to use chat or voice input, so that I can interact with the system easily.
+3. As a student, I want offline access to important data, so that I can still use the system without internet.
